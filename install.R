@@ -1,0 +1,4 @@
+install.packages("tidyverse")
+install.packages("ape")
+install.packages("caper")
+install.packages("phytools",repos="https://cloud.r-project.org",quiet=TRUE)
